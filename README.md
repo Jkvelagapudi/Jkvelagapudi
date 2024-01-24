@@ -49,6 +49,9 @@
   <img src="https://img.shields.io/badge/Gitpod-000000?style=for-the-badge&logo=gitpod&logoColor=#FFAE33" />
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src ="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 
 <h2 align="center"> Other Skills </h2>
@@ -59,7 +62,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-[![Jayadeep's GitHub stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jkvelagapudi&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/DragonflyRobotics#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkvelagapudi&theme=react&layout=donut)](https://github.com/jkvelagapudi/github-readme-stats)
+[![Jayadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkvelagapudi&theme=react&show_icons=true)
+
 
 ##### Contact Me At (jkvelagapudi@gmail.com)
 
