@@ -63,7 +63,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkvelagapudi&theme=react&layout=donut)](https://github.com/jkvelagapudi/github-readme-stats)
-[![Jayadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkvelagapudi&theme=react&show_icons=true)
+![Jayadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkvelagapudi&theme=react&show_icons=true)
 
 
 ##### Contact Me At (jkvelagapudi@gmail.com)
